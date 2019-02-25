@@ -13,6 +13,7 @@ go get -v github.com/dgraph-io/dgraph/dgraph
 ```
 
 ```go
+director.film (first: 1) { _predicate_ } 
 ```
 
 ```
