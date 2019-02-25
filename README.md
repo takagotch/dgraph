@@ -12,7 +12,7 @@ docker pull dgraph/dgraph:latest
 go get -v github.com/dgraph-io/dgraph/dgraph
 ```
 
-```
+```go
 ```
 
 ```
